@@ -39,3 +39,5 @@ with mp_holistic.Holistic(
     if cv2.waitKey(5) & 0xFF == 27:
       break
 cap.release()
+
+#liga del recurso https://youtu.be/djoI_s-qPJ0
